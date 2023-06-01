@@ -2,8 +2,7 @@
   "scanSettings": {
     "configMode": "AUTO",
     "enableLicenseViolations": true,
-    "baseBranches": ["mend-test"],
-    "projectToken": "26365b040d2c44e78a751472fd7adebb40d82e08c0e34f4e8dd71614dfd05dc0"
+    "baseBranches": ["mend-test"]
   },
   "scanSettingsSAST": {
     "enableScan": false,
