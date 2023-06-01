@@ -2,7 +2,7 @@
   "scanSettings": {
     "configMode": "AUTO",
     "enableLicenseViolations": true,
-    "baseBranches": ["asuswrt-router-3006","asuswrt-router-3006_nordvpn"]
+    "baseBranches": ["mend-test"]
   },
   "scanSettingsSAST": {
     "enableScan": false,
