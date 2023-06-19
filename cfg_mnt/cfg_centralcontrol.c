@@ -8,7 +8,8 @@
 #include "cfg_common.h"
 #include "cfg_centralcontrol.h"
 #include "cfg_param.h"
-
+/*afqwefgwlerghlwejflkwejf
+*/
 extern struct nvram_tuple router_defaults[];
 
 /*
