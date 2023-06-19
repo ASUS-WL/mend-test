@@ -1,0 +1,5 @@
+*.o
+*.so
+cfg_client
+cfg_server
+cfg_reportstatus
