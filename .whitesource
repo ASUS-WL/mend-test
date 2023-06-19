@@ -2,7 +2,7 @@
   "scanSettings": {
     "configMode": "AUTO",
     "enableLicenseViolations": true,
-    "baseBranches": ["mend-test"]
+    "baseBranches": ["master"]
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
